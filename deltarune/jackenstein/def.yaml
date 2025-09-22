@@ -1,0 +1,69 @@
+Name: Jackenstein
+Category: Deltarune
+WalkSpeed: 90
+RunSpeed: 270
+Idle:
+  Up:
+    Sprite: idle-left.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Down:
+    Sprite: idle-left.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Left:
+    Sprite: idle-left.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+Walk:
+  Up:
+    Sprite: walk-up.png
+    FrameRate: 7
+    FrameCount: 4
+    StartFrame: 0
+  Down:
+    Sprite: walk-left.png
+    FrameRate: 9
+    FrameCount: 2
+    StartFrame: 0
+  Left:
+    Sprite: walk-left.png
+    FrameRate: 9
+    FrameCount: 2
+    StartFrame: 0
+Run:
+  Up:
+    Sprite: walk-up.png
+    FrameRate: 14
+    FrameCount: 4
+    StartFrame: 0
+  Down:
+    Sprite: walk-left.png
+    FrameRate: 9
+    FrameCount: 2
+    StartFrame: 0
+  Left:
+    Sprite: walk-left.png
+    FrameRate: 9
+    FrameCount: 2
+    StartFrame: 0
+Action:
+  Up:
+    Sprite: action-left.png
+    FrameRate: 6
+    FrameCount: 4
+    StartFrame: 0
+  Down:
+    Sprite: action-down.png
+    FrameRate: 6
+    FrameCount: 11
+    StartFrame: 0
+    LoopPoint: 5
+  Left:
+    Sprite: action-left.png
+    FrameRate: 6
+    FrameCount: 4
+    StartFrame: 0

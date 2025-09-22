@@ -1,0 +1,51 @@
+Name: Elnina
+Category: Deltarune
+Idle:
+  Up:
+    Sprite: idle-up.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Down:
+    Sprite: idle-down.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Left:
+    Sprite: idle-down.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+Walk:
+  Up:
+    Sprite: walk-up.png
+    FrameRate: 5
+    FrameCount: 2
+    StartFrame: 0
+  Down:
+    Sprite: walk-down.png
+    FrameRate: 5
+    FrameCount: 2
+    StartFrame: 0
+  Left:
+    Sprite: walk-left.png
+    FrameRate: 5
+    FrameCount: 2
+    StartFrame: 0
+Action:
+  Up:
+    Sprite: action-up.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Down:
+    Sprite: action-down.png
+    FrameRate: 5
+    FrameCount: 2
+    StartFrame: 0
+  Left:
+    Sprite: action-left.png
+    FrameRate: 10
+    FrameCount: 8
+    StartFrame: 0
+    LoopPoint: 7
