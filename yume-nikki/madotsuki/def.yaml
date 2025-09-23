@@ -1,0 +1,92 @@
+Name: Madotsuki
+Category: Yume Nikki
+WalkSpeed: 70
+RunSpeed: 70
+Idle:
+  Up:
+    Sprite: walk-up.png
+    FrameRate: 0
+    FrameCount: 4
+    StartFrame: 1
+  Down:
+    Sprite: walk-down.png
+    FrameRate: 0
+    FrameCount: 4
+    StartFrame: 1
+  Left:
+    Sprite: walk-left.png
+    FrameRate: 0
+    FrameCount: 4
+    StartFrame: 1
+  Right:
+    Sprite: walk-right.png
+    FrameRate: 0
+    FrameCount: 4
+    StartFrame: 1
+Walk:
+  Up:
+    Sprite: walk-up.png
+    FrameRate: 8
+    FrameCount: 4
+    StartFrame: 0
+  Down:
+    Sprite: walk-down.png
+    FrameRate: 8
+    FrameCount: 4
+    StartFrame: 0
+  Left:
+    Sprite: walk-left.png
+    FrameRate: 8
+    FrameCount: 4
+    StartFrame: 0
+  Right:
+    Sprite: walk-right.png
+    FrameRate: 8
+    FrameCount: 4
+    StartFrame: 0
+Run:
+  Up:
+    Sprite: walk-up.png
+    FrameRate: 8
+    FrameCount: 4
+    StartFrame: 0
+  Down:
+    Sprite: walk-down.png
+    FrameRate: 8
+    FrameCount: 4
+    StartFrame: 0
+  Left:
+    Sprite: walk-left.png
+    FrameRate: 8
+    FrameCount: 4
+    StartFrame: 0
+  Right:
+    Sprite: walk-right.png
+    FrameRate: 8
+    FrameCount: 4
+    StartFrame: 0
+Action:
+  Up:
+    Sprite: action-left.png
+    FrameRate: 8
+    FrameCount: 4
+    StartFrame: 0
+    LoopPoint: 3
+  Down:
+    Sprite: action-right.png
+    FrameRate: 8
+    FrameCount: 4
+    StartFrame: 0
+    LoopPoint: 3
+  Left:
+    Sprite: action-left.png
+    FrameRate: 8
+    FrameCount: 4
+    StartFrame: 0
+    LoopPoint: 3
+  Right:
+    Sprite: action-right.png
+    FrameRate: 8
+    FrameCount: 4
+    StartFrame: 0
+    LoopPoint: 3

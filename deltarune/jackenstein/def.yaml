@@ -1,7 +1,5 @@
 Name: Jackenstein
 Category: Deltarune
-WalkSpeed: 90
-RunSpeed: 270
 Idle:
   Up:
     Sprite: idle-left.png
