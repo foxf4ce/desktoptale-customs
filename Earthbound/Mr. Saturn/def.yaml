@@ -1,0 +1,52 @@
+Name: Mr. Saturn
+Category: Earthbound
+WalkSpeed: 75
+RunSpeed: 75
+Idle:
+  Up:
+    Sprite: walk-up.png
+    FrameRate: 0
+    FrameCount: 2
+    StartFrame: 1
+  Down:
+    Sprite: walk-down.png
+    FrameRate: 0
+    FrameCount: 2
+    StartFrame: 1
+  Left:
+    Sprite: walk-left.png
+    FrameRate: 0
+    FrameCount: 2
+    StartFrame: 1
+Walk:
+  Up:
+    Sprite: walk-up.png
+    FrameRate: 8
+    FrameCount: 2
+    StartFrame: 0
+  Down:
+    Sprite: walk-down.png
+    FrameRate: 8
+    FrameCount: 2
+    StartFrame: 0
+  Left:
+    Sprite: walk-left.png
+    FrameRate: 8
+    FrameCount: 2
+    StartFrame: 0
+Run:
+  Up:
+    Sprite: walk-up.png
+    FrameRate: 8
+    FrameCount: 2
+    StartFrame: 0
+  Down:
+    Sprite: walk-down.png
+    FrameRate: 8
+    FrameCount: 2
+    StartFrame: 0
+  Left:
+    Sprite: walk-left.png
+    FrameRate: 8
+    FrameCount: 2
+    StartFrame: 0

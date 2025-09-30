@@ -1,0 +1,52 @@
+Name: Pirori
+Category: Yume Nikki
+WalkSpeed: 70
+RunSpeed: 70
+Idle:
+  Up:
+    Sprite: walk-up.png
+    FrameRate: 0
+    FrameCount: 4
+    StartFrame: 1
+  Down:
+    Sprite: walk-down.png
+    FrameRate: 0
+    FrameCount: 4
+    StartFrame: 1
+  Left:
+    Sprite: walk-left.png
+    FrameRate: 0
+    FrameCount: 4
+    StartFrame: 1
+Walk:
+  Up:
+    Sprite: walk-up.png
+    FrameRate: 8
+    FrameCount: 4
+    StartFrame: 0
+  Down:
+    Sprite: walk-down.png
+    FrameRate: 8
+    FrameCount: 4
+    StartFrame: 0
+  Left:
+    Sprite: walk-left.png
+    FrameRate: 8
+    FrameCount: 4
+    StartFrame: 0
+Run:
+  Up:
+    Sprite: walk-up.png
+    FrameRate: 8
+    FrameCount: 4
+    StartFrame: 0
+  Down:
+    Sprite: walk-down.png
+    FrameRate: 8
+    FrameCount: 4
+    StartFrame: 0
+  Left:
+    Sprite: walk-left.png
+    FrameRate: 8
+    FrameCount: 4
+    StartFrame: 0
