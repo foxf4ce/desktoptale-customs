@@ -1,4 +1,4 @@
-Name: Mr. Saturn
+Name: Pokey Minch
 Category: Earthbound
 WalkSpeed: 75
 RunSpeed: 75
@@ -48,21 +48,5 @@ Run:
   Left:
     Sprite: walk-left.png
     FrameRate: 8
-    FrameCount: 2
-    StartFrame: 0
-Action:
-  Up:
-    Sprite: walk-up.png
-    FrameRate: 3
-    FrameCount: 2
-    StartFrame: 0
-  Down:
-    Sprite: walk-down.png
-    FrameRate: 3
-    FrameCount: 2
-    StartFrame: 0
-  Left:
-    Sprite: walk-left.png
-    FrameRate: 3
     FrameCount: 2
     StartFrame: 0

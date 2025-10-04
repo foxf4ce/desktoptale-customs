@@ -53,21 +53,21 @@ Run:
 Action:
   Up:
     Sprite: action-down.png
-    FrameRate: 2
+    FrameRate: 3
     FrameCount: 2
     StartFrame: 0
   Down:
     Sprite: action-down.png
-    FrameRate: 2
+    FrameRate: 3
     FrameCount: 2
     StartFrame: 0
   Left:
     Sprite: action-down.png
-    FrameRate: 2
+    FrameRate: 3
     FrameCount: 2
     StartFrame: 0
   Right:
     Sprite: action-down.png
-    FrameRate: 2
+    FrameRate: 3
     FrameCount: 2
     StartFrame: 0

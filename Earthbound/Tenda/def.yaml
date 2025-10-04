@@ -51,8 +51,18 @@ Run:
     FrameCount: 2
     StartFrame: 0
 Action:
+  Up:
+    Sprite: walk-up.png
+    FrameRate: 3
+    FrameCount: 2
+    StartFrame: 0
   Down:
     Sprite: walk-down.png
+    FrameRate: 3
+    FrameCount: 2
+    StartFrame: 0
+  Left:
+    Sprite: walk-left.png
     FrameRate: 3
     FrameCount: 2
     StartFrame: 0
