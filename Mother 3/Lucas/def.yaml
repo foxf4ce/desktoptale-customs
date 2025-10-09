@@ -1,0 +1,76 @@
+Name: Lucas
+Category: Mother 3
+WalkSpeed: 66
+Idle:
+  Up:
+    Sprite: walk-up.png
+    FrameRate: 0
+    FrameCount: 4
+    StartFrame: 1
+  Down:
+    Sprite: walk-down.png
+    FrameRate: 0
+    FrameCount: 4
+    StartFrame: 1
+  Left:
+    Sprite: walk-left.png
+    FrameRate: 0
+    FrameCount: 4
+    StartFrame: 1
+Walk:
+  Up:
+    Sprite: walk-up.png
+    FrameRate: 6
+    FrameCount: 4
+    StartFrame: 0
+  Down:
+    Sprite: walk-down.png
+    FrameRate: 6
+    FrameCount: 4
+    StartFrame: 0
+  Left:
+    Sprite: walk-left.png
+    FrameRate: 6
+    FrameCount: 4
+    StartFrame: 0
+Run:
+  Up:
+    Sprite: run-up.png
+    FrameRate: 7
+    FrameCount: 4
+    StartFrame: 0
+  Down:
+    Sprite: run-down.png
+    FrameRate: 7
+    FrameCount: 4
+    StartFrame: 0
+  Left:
+    Sprite: run-left.png
+    FrameRate: 7
+    FrameCount: 4
+    StartFrame: 0
+Action:
+  Up:
+    Sprite: action-down.png
+    FrameRate: 6
+    FrameCount: 10
+    StartFrame: 0
+    Loop: false
+  Down:
+    Sprite: action-down.png
+    FrameRate: 6
+    FrameCount: 10
+    StartFrame: 0
+    Loop: false
+  Left:
+    Sprite: action-down.png
+    FrameRate: 6
+    FrameCount: 10
+    StartFrame: 0
+    Loop: false
+  Right:
+    Sprite: action-down.png
+    FrameRate: 6
+    FrameCount: 10
+    StartFrame: 0
+    Loop: false
