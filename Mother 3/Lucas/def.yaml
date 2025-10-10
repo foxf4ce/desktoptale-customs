@@ -17,6 +17,11 @@ Idle:
     FrameRate: 0
     FrameCount: 4
     StartFrame: 1
+  Right:
+    Sprite: walk-right.png
+    FrameRate: 0
+    FrameCount: 4
+    StartFrame: 1
 Walk:
   Up:
     Sprite: walk-up.png
@@ -33,6 +38,11 @@ Walk:
     FrameRate: 6
     FrameCount: 4
     StartFrame: 0
+  Right:
+    Sprite: walk-right.png
+    FrameRate: 6
+    FrameCount: 4
+    StartFrame: 0
 Run:
   Up:
     Sprite: run-up.png
@@ -46,6 +56,11 @@ Run:
     StartFrame: 0
   Left:
     Sprite: run-left.png
+    FrameRate: 7
+    FrameCount: 4
+    StartFrame: 0
+  Right:
+    Sprite: run-right.png
     FrameRate: 7
     FrameCount: 4
     StartFrame: 0
