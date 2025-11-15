@@ -53,20 +53,20 @@ Action:
   Up:
     Sprite: action-down.png
     FrameRate: 8
-    FrameCount: 39
+    FrameCount: 38
     StartFrame: 0
   Down:
     Sprite: action-down.png
     FrameRate: 8
-    FrameCount: 39
+    FrameCount: 38
     StartFrame: 0
   Left:
     Sprite: action-down.png
     FrameRate: 8
-    FrameCount: 39
+    FrameCount: 38
     StartFrame: 0
   Right:
     Sprite: action-down.png
     FrameRate: 8
-    FrameCount: 39
+    FrameCount: 38
     StartFrame: 0
